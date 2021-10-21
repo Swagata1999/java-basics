@@ -7,7 +7,9 @@ public class Calculator {
 
 		int c = a+b;
 		System.out.println("Calculator-- add--"+c);
+		
 		return c;
+		
 	}
 	
 	int sub(int a, int b) {
